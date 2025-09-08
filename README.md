@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Pasula Achsah Hadassah 
 
 <!--
 **Achsah-Data/Achsah-Data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -58,6 +58,6 @@ A collection of projects in SQL, Python, Power BI, and ML showcasing my analytic
 ---
 
 ## 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/) *(add your link here)*  
-- 📧 Email: *your email here*  
+- 💼 [LinkedIn](https://www.linkedin.com/) *(https://www.linkedin.com/in/achsah-hadassah)*  
+- 📧 Email: *achsahhadassah@gmail.com*  
 
